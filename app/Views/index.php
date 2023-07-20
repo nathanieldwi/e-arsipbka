@@ -4,7 +4,7 @@
 <main class="content">
     <div class="container-fluid p-0">
 
-        <h1 class="h3 mb-3"><strong>Analytics</strong> Dashboard</h1>
+        <h1 class="h3 mb-3"><strong>Analytics</strong> Dashboard NIH YEE</h1>
 
         <?php if (session()->get('level') == 'admin') : ?>
             <div class="row">
