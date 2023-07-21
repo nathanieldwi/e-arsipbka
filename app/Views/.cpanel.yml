@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/e-arsipbk/public_html/
-    - /bin/cp -fr * $DEPLOYPATH
+    - /bin/cp -r * $DEPLOYPATH
